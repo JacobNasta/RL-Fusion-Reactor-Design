@@ -2,7 +2,7 @@ from scipy.stats import qmc
 import numpy as np
 import gymnasium as gym
 from gymnasium import spaces
-from Particle import Particle
+from particle import Particle
 from reactor import reactor
 from reactor import power
 from reactor import stability
